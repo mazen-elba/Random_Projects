@@ -8,11 +8,11 @@ import tweepy
 from textblob import TextBlob
 
 # 1. authenticate
-consumer_key = "YcAwnVsMNOk6CKall99dMXdum" # "CONSUMER_KEY_HERE"
-consumer_secret = "szIPbyqncBSAzg6jph6GfV5mglHzS2KCv6N1GLXXG0Xy9kEaIx" # "CONSUMER_SECRET_HERE"
+consumer_key = "CONSUMER_KEY_HERE"
+consumer_secret = "CONSUMER_SECRET_HERE"
 
-access_token = "214328171-lr3MVoyKouWtiwaGRPzAMpiqRC3oJfWsqGUzslNl" # "ACCESS_TOKEN_HERE"
-access_token_secret = "RNMBokJrtUkoH1pWo2MRmSP4w6w5b6DULMLd3W4YJacqq" # "ACCESS_TOKEN_SECRET_HERE"
+access_token = "ACCESS_TOKEN_HERE"
+access_token_secret = "ACCESS_TOKEN_SECRET_HERE"
 
 # 2. authorize access to tweets
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
