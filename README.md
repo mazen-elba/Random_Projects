@@ -1,8 +1,7 @@
 # Projects
 
-## Robotics - ROS + OpenCV
+## Robotics
 
 ## Data Science 
-  ### Kaggle
-  ### CV
-  ### NLP
+  - Twitter Sentiment Analysis
+  
