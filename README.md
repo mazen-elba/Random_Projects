@@ -1,10 +1,10 @@
 # Projects
 
-## Robotics
+## Robotics (with ROS & TensorFlow)
 
-## CV
+## CV (with OpenCV & TensorFlow)
 
-## Data Science 
+## Data Science (with Scikit-Learn)
   - Gender Classifiers
   - Twitter Sentiment Analysis
   
