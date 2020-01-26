@@ -1,5 +1,14 @@
-# Reinforcement Learning
+# Bias-Variance Tradeoffs
+- Sample complexity is at odds with model complexity in Machine Learning.
+  - Model complexity - a sufficiently complex model is necessary to solve a problem
+  - Sample complexity - a model that does not require many samples is preferrable
+- For both models to attain the same performance, bias-variance tells us that an extremely complex model will need exponentially more samples to train
+  - To maintain same error rate, increasing model complexity increases sample complexity exponentially
+  - Decreasing sample complexity decreases model complexity
+- Bias-Variance decomposition is a breakdown of "true error" (mean squared error (MSE)) into two components: bias and variance
+  - MSE is the expected difference between predicted labels and true labels
 
+# Reinforcement Learning
 ## Q-Learning Policy
   - In any game, a player's goal is to maximize their score.
   - The player's score is the agent's reward.
