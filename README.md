@@ -7,6 +7,7 @@
   - Decreasing sample complexity decreases model complexity
 - Bias-Variance decomposition is a breakdown of "true error" (mean squared error (MSE)) into two components: bias and variance
   - MSE is the expected difference between predicted labels and true labels
+- Linear Regression (least squares method) is a means of regression analysis to find the optimal linear model of two parameters or datasets
 
 # Reinforcement Learning
 ## Q-Learning Policy
