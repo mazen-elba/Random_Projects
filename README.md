@@ -10,6 +10,11 @@
 - Linear Regression (least squares method) is a means of regression analysis to find the optimal linear model of two parameters or datasets
 
 # Reinforcement Learning
+### Q-learning agents using Q-table
+### Q-learning agents using neural networks
+### Q-learning agents using least squares (linear regression)
+### Q-learning agents using DQN (deep Q-learning) - solves correlated states and Q-function instability
+
 ## Q-Learning Policy
   - In any game, a player's goal is to maximize their score.
   - The player's score is the agent's reward.
